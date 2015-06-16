@@ -17,10 +17,14 @@ Although hacking is often reduce has online actions, its can be more defined as 
 Git is distributed version control. It has two big differences with traditional version control systems. The first is that it lives up to the philosophical promise of open-source. Everybody who works on a project has access to all of the source code all of the time.
 Git is a formidable plateform were everyone can make improvement. One using Git can make any important change at all, creating a new file, modifying an existing one, merging two files... 
 
-GitHub create a common grammar, therefore everything and everyone is equal. 
+> GitHub create a common grammar, therefore everything and everyone is equal. 
 
 ## Research Presentation
 This project is the result of a 3 months research process. 
+9 Maps have been creating during the process, and from this process, 3 mains characteristic can be extracts:
+* The fervour that drove personn during the process. They all express interest in the process, tring to naturaly challenge themself, asking questions and hijacking the tool in order to create something unique and personnal. They <b>Make</b>.
+* By making and hijacking this process, they draw their vision of their territory and therefore the deplacement and actions they do during their everyday life. They <b>Share</b>.
+* But while they were making and sharing their representation, they also find gaps, blanck space, "End of the world" as on of the first participant said. They <b>Learn</b>.
 
 # “Bien vacant”, a third space [Extract]
 
