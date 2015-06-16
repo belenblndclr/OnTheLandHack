@@ -20,13 +20,18 @@ Git is a formidable plateform were everyone can make improvement. One using Git 
 > GitHub create a common grammar, therefore everything and everyone is equal. 
 
 ## Research Presentation
+> Make, Share Learn, the hacker philosophy
+
 This project is the result of a 3 months research process. 
 9 Maps have been creating during the process, and from this process, 3 mains characteristic can be extracts:
 * The fervour that drove personn during the process. They all express interest in the process, tring to naturaly challenge themself, asking questions and hijacking the tool in order to create something unique and personnal. They <b>Make</b>.
 * By making and hijacking this process, they draw their vision of their territory and therefore the deplacement and actions they do during their everyday life. They <b>Share</b>.
 * But while they were making and sharing their representation, they also find gaps, blanck space, "End of the world" as on of the first participant said. They <b>Learn</b>.
 
-# “Bien vacant”, a third space [Extract]
+If you liked this idea, join this space, and start wondering. 
+
+# “Bien vacant”, a third space
+> Open, Shared, Mutable
 
 'Bien vacant' (vacant goods), is a term I personally first encounter in an interview of Algerian journalist and author Kamel Daoud. When I first search it, I encounter the legal side of this expression and the commonly used synonym for it: « Bien sans maître » (Masterless Goods), used legally to characterized a real estate left without succession. Daoud used it not to describe a property but to characterized the french language when used by native Algerian. On the eve of the newly independent state of Algeria, french were consider as a spoils the defeated, but 50 years later, the government and administration now speak Arabic, and french as become something else. It became « a ghost house, however solidly built, where one can dream for an other life » (« Une maison de fantômes, pourtant solidement construite, où l’on peut rêver d’une autre vie » Kamel Daoud, Meursault contre-enquête). Internet and the network help make materiality of the good irrelevant. The fact that it can be touch threw the human hand does no longer matter. This good became a possibility, a creative gateway to a place never explore before. That idea of 'bien vacant', is odly similar to the one of hack develop thought this thesis. 
 
