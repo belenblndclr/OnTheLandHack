@@ -1,5 +1,5 @@
 # On The Land Hack
-###Circumventing limitations with all the creativity of the community.
+> Circumventing limitations with all the creativity of the community.
 
 Territory, internet and hacks, what an odd combination. Or at least it used to be. With the alarming increased of “solutions” proposed by both politic and civic organization to solve the “technology gaps” in territory, that combination tend to become more and more common. But it may should not be. Is every city should create Fab Labs or Coworking spaces ? Or are those  global conceptual solutions put on a local scale shouldn't be redesign for every specific situation.
 
