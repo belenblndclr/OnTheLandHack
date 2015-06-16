@@ -1,10 +1,15 @@
 # On The Land Hack
 Circumventing limitations with all the creativity of the community
+The need of togetherness and collective as increase with the newtechnology,
+
+/Dont create average, create denser
 
 ## Why Git
+Git is distributed version control. It has two big differences with traditional version control systems. The first is that it lives up to the philosophical promise of open-source. Everybody who works on a project has access to all of the source code all of the time.
+Git is a formidable plateform were everyone can make improvement. One using Git can make any important change at all, creating a new file, modifying an existing one, merging two files... 
 
 ## Research Presentation
-This project is the result of a 3 months research process.
+This project is the result of a 3 months research process. 
 
 # “Bien vacant”, a third space [Extract]
 
