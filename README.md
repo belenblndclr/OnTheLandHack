@@ -12,7 +12,6 @@ This practices where first considered  deviant and made by a minority among user
 Although hacking is often reduce has online actions, its can be more defined as any innovation made on an existing system, and it should not be restricted to digital world. Our day-life need innovation and what more important system that our country, city and territory. So lets creatively overcoming or circumventing limitations by intellectually challenging our material self.
 	
 > Dont create average, create denser
-![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
 
 ## Why Git
 Git is distributed version control. It has two big differences with traditional version control systems. The first is that it lives up to the philosophical promise of open-source. Everybody who works on a project has access to all of the source code all of the time.
@@ -30,6 +29,9 @@ This project is the result of a 3 months research process.
 * But while they were making and sharing their representation, they also find gaps, blanck space, "End of the world" as on of the first participant said. They <b>Learn</b>.
 
 If you liked this idea, join this space, and start wondering. I will proposed here a grammar of questioning for you to hijack. This is not a place where you can find answers, but you certainly can find help.
+
+![](http://belenblndclr.com/onthelandofhack/img/mapscreen.png)
+<i>Map Example</i>
 
 # “Bien vacant”, a third space
 > Open, Shared, Mutable
