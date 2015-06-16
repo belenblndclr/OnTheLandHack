@@ -1,5 +1,6 @@
 # On The Land Hack
-Circumventing limitations with all the creativity of the community
+###Circumventing limitations with all the creativity of the community.
+
 Territory, internet and hacks, what an odd combination. Or at least it used to be. With the alarming increased of “solutions” proposed by both politic and civic organization to solve the “technology gaps” in territory, that combination tend to become more and more common. But it may should not be. Is every city should create Fab Labs or Coworking spaces ? Or are those  global conceptual solutions put on a local scale shouldn't be redesign for every specific situation.
 
 We used to walk our all life without needing to dematerialized our environment. Practicing city and road easily, with transportation needing effort, resources and time. Our journey was constantly disturb by the environment around us. Beautiful landscape or huge traffic could drasticly influence our emotional representation of space. Feeling a space enough to be able to categorized has either best or worst place on earth. Our map where drawn to fit our representation of space, plane and limited. But the coast of a country is infinite, we will never be able to have a fixed distances between two points due to the environment itself. Just as our planisphere is a false representation of our planet because a sphere can never be translate into a rectangle. The representation we made of our dimensions is scientific but mostly emotionally connect to our self, therefore unique and infinite for each of its practicing.
