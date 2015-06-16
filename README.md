@@ -1,9 +1,10 @@
-# OnTheLandHack
+# On The Land Hack
 Circumventing limitations with all the creativity of the community
 
 # Git Presentation
 
-# Thesis Presentation
+# Research Presentation
+This project is the result of a 3 months research process.
 
 # “Bien vacant”, a third space
 
