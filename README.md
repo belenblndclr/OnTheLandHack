@@ -31,6 +31,7 @@ This project is the result of a 3 months research process.
 If you liked this idea, join this space, and start wondering. I will proposed here a grammar of questioning for you to hijack. This is not a place where you can find answers, but you certainly can find help.
 
 ![](http://belenblndclr.com/onthelandofhack/img/mapscreen.png)
+
 [Map Example from the first set]
 
 # “Bien vacant”, a third space
