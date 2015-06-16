@@ -28,7 +28,7 @@ This project is the result of a 3 months research process.
 * By making and hijacking this process, they draw their vision of their territory and therefore the deplacement and actions they do during their everyday life. They <b>Share</b>.
 * But while they were making and sharing their representation, they also find gaps, blanck space, "End of the world" as on of the first participant said. They <b>Learn</b>.
 
-If you liked this idea, join this space, and start wondering. 
+If you liked this idea, join this space, and start wondering. I will proposed here a grammar of questioning for you to hijack. This is not a place where you can find answers, but you certainly can find help.
 
 # “Bien vacant”, a third space
 > Open, Shared, Mutable
