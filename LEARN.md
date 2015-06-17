@@ -4,7 +4,7 @@
 
 * <b>Coworking Spaces</b> Shared workspace, trying to associate the comfort of working from home and social wealth of the company and work alongside other workers, encouraging trade and openness. 25 recorded in France in 2011, over 50 new spaces opened since (Source: Caisse des Dépôts et des Consignations, Telecentre Studies 2011). 
 
- * <b>Fablabs</b> Short cut for Fabrication Laboratory, they were create by the Massachusetts Institute of Technology (MIT) in 2001 to explore the connection between the content of information relates to its physical representation and how an under-served community can be powered by technology at the grassroots level. 
+* <b>Fablabs</b> Short cut for Fabrication Laboratory, they were create by the Massachusetts Institute of Technology (MIT) in 2001 to explore the connection between the content of information relates to its physical representation and how an under-served community can be powered by technology at the grassroots level. 
 The Fabs Labs are more and more popular in France, proposing access to a space to create quick, easy and digitally based objects. Fablab facility are now considered has one of the solution to m(f)ix territory and technology gaps that our society is facing. 
 
 > Here are some great responce to an unique contexte
