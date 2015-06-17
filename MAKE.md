@@ -11,3 +11,6 @@ This maps are merely the starting point my reflexion. They have two mains purpos
 
 * The first one is to find out how citizens perceive their environment and their city. My first goal was to find a place, an area in the city were the “Bien Vacant” could step in, trying to find a place where this place could guess and try. Expect that my panel of participants was a bit short, therefor I might have missed an area. However, I will recommend any future relationship with the place where I was gathering the information, the MJC, because their openhanded  was great. 
 * The second purposes was to observe the hack they could come up during the process. By offering them a support and a tool, I've observe (with my eyes and vocally) how they took on the challenge and if they were volunteer in the exercise. Surprisingly, they were only 1 un-volunteer participant (statistically, that's 8% of the panel). What's the more surprising is how they took the exercise: with a lot of attention, and a lot of reflexion, thinking and rethinking their path and journey, try to hack map distortion situation with “narrative” twist.
+
+
+<b>To find the first two sessions, please explore the git, and upload yours ! </b>
